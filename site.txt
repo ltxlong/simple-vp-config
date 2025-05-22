@@ -9,9 +9,7 @@
       "status": true,
       "regularExpression": ""
     },
-    "className": "playlist wbox ffm3u8",
-    "searchResultClass": "",
-    "searchInputClassName": "search-input"
+    "searchResultClass": ""
   },
   {
     "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
@@ -128,7 +126,8 @@
     "remark": "IPTV",
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
-      "status": false
+      "status": false,
+      "regularExpression": ""
     },
     "searchResultClass": ""
   }
