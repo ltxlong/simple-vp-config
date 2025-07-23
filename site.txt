@@ -9,7 +9,9 @@
       "status": true,
       "regularExpression": ""
     },
-    "searchResultClass": ""
+    "className": "playlist wbox ffm3u8",
+    "searchResultClass": "",
+    "searchInputClassName": "search-input"
   },
   {
     "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
@@ -84,7 +86,7 @@
     "searchResultClass": ""
   },
   {
-    "url": "http://zy.xiaomaomi.cc/api.php/provide/vod",
+    "url": "http://zy.xmm.hk/api.php/provide/vod",
     "active": true,
     "isPost": false,
     "remark": "XM",
@@ -108,10 +110,10 @@
     "searchResultClass": ""
   },
   {
-    "url": "https://vs.okcdn100.top/api.php/provide/vod",
+    "url": "http://zy.jinchancaiji.com/api.php/provide/vod",
     "active": true,
     "isPost": false,
-    "remark": "MY",
+    "remark": "JC",
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
       "status": false,
@@ -126,8 +128,7 @@
     "remark": "IPTV",
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
-      "status": false,
-      "regularExpression": ""
+      "status": false
     },
     "searchResultClass": ""
   }
