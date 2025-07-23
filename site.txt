@@ -9,9 +9,7 @@
       "status": true,
       "regularExpression": ""
     },
-    "className": "playlist wbox ffm3u8",
-    "searchResultClass": "",
-    "searchInputClassName": "search-input"
+    "searchResultClass": ""
   },
   {
     "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
