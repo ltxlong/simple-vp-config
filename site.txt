@@ -1,29 +1,5 @@
 [
   {
-    "url": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
-    "active": false,
-    "isPost": false,
-    "remark": "FF",
-    "adFilter": {
-      "item": "default_del_ad_tag_to_filter",
-      "status": true,
-      "regularExpression": ""
-    },
-    "searchResultClass": ""
-  },
-  {
-    "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
-    "active": false,
-    "isPost": false,
-    "remark": "LZ",
-    "adFilter": {
-      "item": "default_del_ad_tag_to_filter",
-      "status": true,
-      "regularExpression": ""
-    },
-    "searchResultClass": ""
-  },
-  {
     "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8",
     "active": true,
     "isPost": false,
@@ -36,10 +12,34 @@
     "searchResultClass": ""
   },
   {
-    "url": "https://bfzyapi.com/api.php/provide/vod",
+    "url": "https://tyyszy.com/api.php/provide/vod",
+    "active": true,
+    "isPost": false,
+    "remark": "TY",
+    "adFilter": {
+      "item": "default_del_ad_tag_to_filter",
+      "status": false,
+      "regularExpression": ""
+    },
+    "searchResultClass": ""
+  },
+  {
+    "url": "http://api.ffzyapi.com/api.php/provide/vod",
     "active": false,
     "isPost": false,
-    "remark": "BF",
+    "remark": "FF",
+    "adFilter": {
+      "item": "default_del_ad_tag_to_filter",
+      "status": true,
+      "regularExpression": ""
+    },
+    "searchResultClass": ""
+  },
+  {
+    "url": "https://api.maoyanapi.top/api.php/provide/vod",
+    "active": false,
+    "isPost": false,
+    "remark": "MY",
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
       "status": true,
@@ -49,7 +49,7 @@
   },
   {
     "url": "https://json.heimuer.xyz/api.php/provide/vod",
-    "active": true,
+    "active": false,
     "isPost": false,
     "remark": "HM",
     "adFilter": {
@@ -60,7 +60,7 @@
     "searchResultClass": ""
   },
   {
-    "url": "https://haohuazy.com/index.php/vod/search.html?wd=",
+    "url": "https://hhzyapi.com/api.php/provide/vod",
     "active": false,
     "isPost": false,
     "remark": "HH",
@@ -69,7 +69,7 @@
       "status": true,
       "regularExpression": ""
     },
-    "searchResultClass": "list"
+    "searchResultClass": ""
   },
   {
     "url": "https://jszyapi.com/api.php/provide/vod",
@@ -96,10 +96,10 @@
     "searchResultClass": ""
   },
   {
-    "url": "https://zy.hls.one/api.php/provide/vod",
+    "url": "https://mozhuazy.com/api.php/provide/vod",
     "active": false,
     "isPost": false,
-    "remark": "HS",
+    "remark": "MZ",
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
       "status": false,
