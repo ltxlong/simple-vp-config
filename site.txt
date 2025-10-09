@@ -13,7 +13,7 @@
   },
   {
     "url": "https://tyyszy.com/api.php/provide/vod",
-    "active": true,
+    "active": false,
     "isPost": false,
     "remark": "TY",
     "adFilter": {
@@ -28,18 +28,6 @@
     "active": false,
     "isPost": false,
     "remark": "FF",
-    "adFilter": {
-      "item": "default_del_ad_tag_to_filter",
-      "status": true,
-      "regularExpression": ""
-    },
-    "searchResultClass": ""
-  },
-  {
-    "url": "https://api.maoyanapi.top/api.php/provide/vod",
-    "active": false,
-    "isPost": false,
-    "remark": "MY",
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
       "status": true,
@@ -72,10 +60,34 @@
     "searchResultClass": ""
   },
   {
+    "url": "https://api.maoyanapi.top/api.php/provide/vod",
+    "active": false,
+    "isPost": false,
+    "remark": "MY",
+    "adFilter": {
+      "item": "default_del_ad_tag_to_filter",
+      "status": true,
+      "regularExpression": ""
+    },
+    "searchResultClass": ""
+  },
+  {
     "url": "https://jszyapi.com/api.php/provide/vod",
     "active": true,
     "isPost": false,
     "remark": "JS",
+    "adFilter": {
+      "item": "default_del_ad_tag_to_filter",
+      "status": true,
+      "regularExpression": ""
+    },
+    "searchResultClass": ""
+  },
+  {
+    "url": "https://api.wwzy.tv/api.php/provide/vod",
+    "active": true,
+    "isPost": false,
+    "remark": "WW",
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
       "status": true,
@@ -91,18 +103,6 @@
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
       "status": true,
-      "regularExpression": ""
-    },
-    "searchResultClass": ""
-  },
-  {
-    "url": "https://mozhuazy.com/api.php/provide/vod",
-    "active": false,
-    "isPost": false,
-    "remark": "MZ",
-    "adFilter": {
-      "item": "default_del_ad_tag_to_filter",
-      "status": false,
       "regularExpression": ""
     },
     "searchResultClass": ""
