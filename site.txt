@@ -96,13 +96,13 @@
     "searchResultClass": ""
   },
   {
-    "url": "http://zy.xmm.hk/api.php/provide/vod",
+    "url": "https://www.caiji.cyou/api.php/provide/vod",
     "active": true,
     "isPost": false,
     "remark": "XM",
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
-      "status": true,
+      "status": false,
       "regularExpression": ""
     },
     "searchResultClass": ""
