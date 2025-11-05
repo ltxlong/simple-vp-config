@@ -6,7 +6,7 @@
     "remark": "DY",
     "adFilter": {
       "item": "default_del_ad_tag_to_filter",
-      "status": false,
+      "status": true,
       "regularExpression": ""
     },
     "searchResultClass": ""
